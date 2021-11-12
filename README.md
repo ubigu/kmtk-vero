@@ -8,7 +8,7 @@ Maanmittauslaitos testasi syksyn 2021 aikana, miten Kansallisen maastotietokanna
 
 Tässä on ladattavana hankkeessa luotu FME-prosessi, jolla voidaan linkittää kunnan rakennusrekisterin, VTJ-rakennusten, KMTK VTJ-PRT-rakennusten ja Verohallinnon rakennusten tietoja yhteen, jotta tietoja voidaan vertailla keskenään rekisterien parantamiseksi.
 
-## Project webpages
+## Project webpage
 https://www.maanmittauslaitos.fi/ajankohtaista/kmtk-rakennustiedot-voivat-toimia-kuntien-kiinteistoveroselvityksen-lahtotietoina
 
 ## Authors
